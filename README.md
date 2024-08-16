@@ -1,1 +1,1 @@
-Service Registry
+Service Registry Using Eureka -> Open Feign
